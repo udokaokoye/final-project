@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|c:\\users\\administrator\\documents\\project 2\\final-project\\final project\\controllers\\facultycntroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|solutionrelative:final project\\controllers\\facultycntroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|c:\\users\\administrator\\documents\\project 2\\final-project\\final project\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|solutionrelative:final project\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FacultyCntroller.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\Controllers\\FacultyCntroller.cs",
+              "RelativeDocumentMoniker": "Final Project\\Controllers\\FacultyCntroller.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\Controllers\\FacultyCntroller.cs",
+              "RelativeToolTip": "Final Project\\Controllers\\FacultyCntroller.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:58:18.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ClubController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\Controllers\\ClubController.cs",
               "RelativeDocumentMoniker": "Final Project\\Controllers\\ClubController.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TeamController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\Controllers\\TeamController.cs",
               "RelativeDocumentMoniker": "Final Project\\Controllers\\TeamController.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "Final Project\\Controllers\\TeamController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:15:22.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T15:15:22.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Final Project\\Models\\AppDbContext.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\appsettings.json",
               "RelativeDocumentMoniker": "Final Project\\appsettings.json",
