@@ -134,3 +134,4 @@ C:\Users\levio\source\repos\Final Project\Final Project\obj\Debug\net8.0\refint\
 C:\Users\levio\source\repos\Final Project\Final Project\obj\Debug\net8.0\Final Project.pdb
 C:\Users\levio\source\repos\Final Project\Final Project\obj\Debug\net8.0\Final Project.genruntimeconfig.cache
 C:\Users\levio\source\repos\Final Project\Final Project\obj\Debug\net8.0\ref\Final Project.dll
+C:\Users\levio\source\repos\Final Project\Final Project\obj\Debug\net8.0\Final Project.sourcelink.json
