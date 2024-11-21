@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\levio\\source\\repos\\Final Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|c:\\users\\levio\\source\\repos\\final project\\final project\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|solutionrelative:final project\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|c:\\users\\levio\\source\\repos\\final project\\final project\\controllers\\facultycontorller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|solutionrelative:final project\\controllers\\facultycontorller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|c:\\users\\levio\\source\\repos\\final project\\final project\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|solutionrelative:final project\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "Final Project\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Controllers\\LibraryController.cs*",
+              "RelativeToolTip": "Final Project\\Controllers\\LibraryController.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:18:20.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacultyContorller.cs",
+              "DocumentMoniker": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Controllers\\FacultyContorller.cs",
+              "RelativeDocumentMoniker": "Final Project\\Controllers\\FacultyContorller.cs",
+              "ToolTip": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Controllers\\FacultyContorller.cs",
+              "RelativeToolTip": "Final Project\\Controllers\\FacultyContorller.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:09:20.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Team.cs",
               "DocumentMoniker": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Models\\Team.cs",
               "RelativeDocumentMoniker": "Final Project\\Models\\Team.cs",
@@ -50,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Final Project\\Models\\Course.cs",
@@ -62,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "Final Project\\Controllers\\CoursesController.cs",
@@ -70,12 +104,11 @@
               "RelativeToolTip": "Final Project\\Controllers\\CoursesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:04:23.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T17:04:23.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TeamController.cs",
               "DocumentMoniker": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Controllers\\TeamController.cs",
               "RelativeDocumentMoniker": "Final Project\\Controllers\\TeamController.cs",
@@ -87,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Final Project\\Models\\AppDbContext.cs",
@@ -99,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\appsettings.json",
               "RelativeDocumentMoniker": "Final Project\\appsettings.json",
