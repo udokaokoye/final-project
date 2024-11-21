@@ -4523,19 +4523,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\levio\\.nuget\\packages\\": {}
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Final Project.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\Final Project.csproj",
       "projectName": "Final Project",
-      "projectPath": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Final Project.csproj",
-      "packagesPath": "C:\\Users\\levio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\Final Project.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\levio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
