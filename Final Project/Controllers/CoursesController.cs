@@ -7,7 +7,7 @@ namespace Final_Project.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-//Shamak
+//Shamak patel
     public class CoursesController : ControllerBase
     {
         private readonly AppDbContext _context;
