@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Final Project\\Controllers\\TeamController.cs",
               "ToolTip": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Controllers\\TeamController.cs",
               "RelativeToolTip": "Final Project\\Controllers\\TeamController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwBwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T15:15:22.572Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Final Project\\Models\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:12:28.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T15:12:28.8Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Final Project\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-20T14:08:43.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T14:08:43.803Z"
             }
           ]
         }
