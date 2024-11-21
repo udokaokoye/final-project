@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\levio\\source\\repos\\Final Project\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|c:\\users\\levio\\source\\repos\\final project\\final project\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|solutionrelative:final project\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -20,10 +21,21 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|c:\\users\\levio\\source\\repos\\final project\\final project\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|c:\\users\\administrator\\documents\\project 2\\final-project\\final project\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|solutionrelative:final project\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|c:\\users\\administrator\\documents\\project 2\\final-project\\final project\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|solutionrelative:final project\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|c:\\users\\administrator\\documents\\project 2\\final-project\\final project\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 0fddae907b68c1a9890caa4bb78feda7920bf8c8
       "RelativeMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|solutionrelative:final project\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|c:\\users\\levio\\source\\repos\\final project\\final project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|c:\\users\\administrator\\documents\\project 2\\final-project\\final project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FFC9817-170B-448F-A2E9-2D1EDA5993DB}|Final Project\\Final Project.csproj|solutionrelative:final project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -34,8 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> 0fddae907b68c1a9890caa4bb78feda7920bf8c8
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -65,28 +93,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "Final Project\\Controllers\\CoursesController.cs",
               "ToolTip": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Controllers\\CoursesController.cs",
               "RelativeToolTip": "Final Project\\Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T17:04:23.672Z",
+=======
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "Final Project\\Controllers\\ClubController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "Final Project\\Controllers\\ClubController.cs",
+              "ViewState": "AgIAABIAAAAAzMzMzIwiwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:28:27.191Z",
+>>>>>>> 0fddae907b68c1a9890caa4bb78feda7920bf8c8
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TeamController.cs",
-              "DocumentMoniker": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Controllers\\TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\Controllers\\TeamController.cs",
               "RelativeDocumentMoniker": "Final Project\\Controllers\\TeamController.cs",
-              "ToolTip": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\Controllers\\TeamController.cs",
               "RelativeToolTip": "Final Project\\Controllers\\TeamController.cs",
 <<<<<<< HEAD
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
 =======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
 >>>>>>> 0fddae907b68c1a9890caa4bb78feda7920bf8c8
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T15:15:22.572Z",
@@ -94,11 +133,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 2,
+>>>>>>> 0fddae907b68c1a9890caa4bb78feda7920bf8c8
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Models\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Final Project\\Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\Models\\AppDbContext.cs",
               "RelativeToolTip": "Final Project\\Models\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,11 +149,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 5,
+=======
+              "DocumentIndex": 3,
+>>>>>>> 0fddae907b68c1a9890caa4bb78feda7920bf8c8
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\appsettings.json",
               "RelativeDocumentMoniker": "Final Project\\appsettings.json",
-              "ToolTip": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\project 2\\final-project\\Final Project\\appsettings.json",
               "RelativeToolTip": "Final Project\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

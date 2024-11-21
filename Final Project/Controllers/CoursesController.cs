@@ -7,6 +7,7 @@ namespace Final_Project.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+//Shamak
     public class CoursesController : ControllerBase
     {
         private readonly AppDbContext _context;
