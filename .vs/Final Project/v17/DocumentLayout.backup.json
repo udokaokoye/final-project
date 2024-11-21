@@ -46,8 +46,7 @@
               "RelativeToolTip": "Final Project\\Models\\Team.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:06:54.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T17:06:54.88Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Final Project\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:03:47.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T17:03:47.363Z"
             },
             {
               "$type": "Document",
@@ -70,7 +68,7 @@
               "RelativeDocumentMoniker": "Final Project\\Controllers\\CoursesController.cs",
               "ToolTip": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Controllers\\CoursesController.cs",
               "RelativeToolTip": "Final Project\\Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T17:04:23.672Z",
               "EditorCaption": ""
@@ -83,14 +81,9 @@
               "RelativeDocumentMoniker": "Final Project\\Controllers\\TeamController.cs",
               "ToolTip": "C:\\Users\\levio\\source\\repos\\Final Project\\Final Project\\Controllers\\TeamController.cs",
               "RelativeToolTip": "Final Project\\Controllers\\TeamController.cs",
-<<<<<<< HEAD
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
->>>>>>> 0fddae907b68c1a9890caa4bb78feda7920bf8c8
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:15:22.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T15:15:22.572Z"
             },
             {
               "$type": "Document",
